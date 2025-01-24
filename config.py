@@ -20,4 +20,4 @@ BOT_USERNAME = "Terabox_video_downloader_Fbot"
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
 FORCE_LINK = "@Fl4me_Updates"
 
-PUBLIC_EARN_API = ""  # https://publicearn.com/api
+PUBLIC_EARN_API = "https://publicearn.com/api"  # https://publicearn.com/api
